@@ -25,6 +25,10 @@ The following analyses were performed using SQL queries:
 - Discount impact on late deliveries
 - Product importance vs delivery delay
 
+## 📊 Reults
+- **Overall late delivery rate: 59.67%**
+- Query result verified directly from the dataset:![Late Delivery Percentage](Late Delivery %.jpeg)
+
 ## 📊 Key Insights
 - Certain shipping modes experienced higher late delivery rates
 - Specific warehouse blocks contributed more to delivery delays
